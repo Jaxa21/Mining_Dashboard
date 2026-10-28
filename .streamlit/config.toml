@@ -1,9 +1,9 @@
 [theme]
-base = "light"
-primaryColor = "#c98500"
-backgroundColor = "#fbfaf7"
-secondaryBackgroundColor = "#f1efe9"
-textColor = "#1f2329"
+base = "dark"
+primaryColor = "#e0a020"
+backgroundColor = "#14161a"
+secondaryBackgroundColor = "#1f2228"
+textColor = "#e6e6e6"
 font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
 headingFont = "Chakra Petch:https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&display=swap"
 showWidgetBorder = true
